@@ -1,0 +1,7 @@
+Lovemap is a tile-based mapping engine for the Love 2d gaming framework (love2d.org) written in Lua.
+
+Lovemap lets you assign different materials, such as dirt, water, grass, etc., to different tiles and handles the rendering of the tiles and their overlays.
+
+Screenshot: http://github.com/joeyschoblaska/lovemap-example/raw/master/screenshot.gif
+
+Example usage: http://github.com/joeyschoblaska/lovemap-example/
